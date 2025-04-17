@@ -1,0 +1,2 @@
+# HUST_AIA_MATLAB_homework
+华中科技大学人工智能与自动化学院MATLAB课程设计——战争模型模拟，包含模型建立与可视化界面设计
